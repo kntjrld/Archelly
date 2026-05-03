@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <defs>
+    <style>
+      .shield { fill: #6ce3ff; }
+      .lock { fill: #090909; }
+    </style>
+  </defs>
+  <path class="shield" d="M16 2L4 6v10c0 8.284 6.716 15 12 15s12-6.716 12-15V6L16 2z"/>
+  <rect class="lock" x="12" y="14" width="8" height="6" rx="1"/>
+  <rect class="lock" x="14" y="12" width="4" height="4" rx="1"/>
+  <circle class="lock" cx="16" cy="17" r="1"/>
+</svg>
